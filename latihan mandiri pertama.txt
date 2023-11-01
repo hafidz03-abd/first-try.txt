@@ -1,1 +1,2 @@
 latihan mandiri pertama
+saya sedang coba memahami git
